@@ -1,5 +1,9 @@
 
-Unfinished music-related slot machine game using Spotify's API and React
+Unfinished music-related slot machine game using Spotify's API, Node/Express (backend/server) and React (frontend)
+
+Spotify's API doesn't allow apps to make API calls from a frontend client unless you authorize a user, which isn't required for this app, so I've set up a server using Express (server.js)  to make the API requests to Spotify.
+
+The frontend is a basic form built with React.
 
 **Basic mechanics:**
 1. Enter 3 artists' names and the app will return 3 related artists (generated at random) and each artists' most recent album
