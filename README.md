@@ -1,5 +1,5 @@
 
-Unfinished music-related slot machine game using Spotify's API
+Unfinished music-related slot machine game using Spotify's API and React
 
 **Basic mechanics:**
 1. Enter 3 artists' names and the app will return 3 related artists (generated at random) and each artists' most recent album
